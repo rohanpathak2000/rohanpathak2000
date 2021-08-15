@@ -1,11 +1,17 @@
 ### Hi there 👋
-#### Welcome to My Repository. You will find some codes of React Native and Python here.
+#### Welcome to My Repository. 
 
 - 🔭 I’m currently working on building IoT and ML projects
 - 🌱 I’m currently learning Java and ML using Python
-<!--- 🤔 I’m looking for help ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- :smiley: Looking to contribute to a backend design using the Django framework
+- :monocle_face: Interested to work in Django
+- 📫 How to reach me:
+    - LinkedIn : https://www.linkedin.com/in/rohan-pathak-b366a21b1/
+    - Hackerrank : https://www.hackerrank.com/rohan_pathak243
+    - E-Mail : rohan.pathak243@gmail.com
+----
+
+- <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
