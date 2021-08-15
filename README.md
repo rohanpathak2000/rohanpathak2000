@@ -9,9 +9,9 @@
     - LinkedIn : https://www.linkedin.com/in/rohan-pathak-b366a21b1/
     - Hackerrank : https://www.hackerrank.com/rohan_pathak243
     - E-Mail : rohan.pathak243@gmail.com
-----
 
-- <!--
+
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
